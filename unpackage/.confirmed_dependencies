@@ -1,0 +1,20 @@
+{
+  "index.html": {
+    "href": "index.html",
+    "resources": [
+      "index_files/default.css",
+      "lzx.png",
+      "index_files/jquery.min.js",
+      "index_files/jscex.min.js",
+      "index_files/jscex-parser.js",
+      "index_files/jscex-jit.js",
+      "index_files/jscex-builderbase.min.js",
+      "index_files/jscex-async.min.js",
+      "index_files/jscex-async-powerpack.min.js",
+      "index_files/functions.js",
+      "index_files/love.js"
+    ],
+    "refer": [],
+    "priority": 0
+  }
+}
